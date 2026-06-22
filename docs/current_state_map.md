@@ -2,7 +2,7 @@
 
 This document shows where the prototype stands right now, what is playable, what is only scaffolded, and what should be built next.
 
-![Current State Map](/Users/aleynakilic/Documents/Playground/snake-roguelite/docs/current_state_map.svg)
+![Current State Map](current_state_map.svg)
 
 ## One-Line Status
 
